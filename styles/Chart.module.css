@@ -1,0 +1,24 @@
+.container {
+  position: relative;
+  max-height: 50vh;
+}
+
+.controls {
+  position: absolute;
+  top: 10;
+  left: 10;
+}
+
+.canvas {
+  z-index: 1000;
+}
+
+.button {
+  border-radius: 3;
+  border: 2px solid #232323;
+  color: #232323;
+  padding: 5px 10px;
+  background: transparent;
+  margin-right: 10;
+  cursor: pointer;
+}
