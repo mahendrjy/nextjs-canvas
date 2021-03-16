@@ -1,5 +1,6 @@
 ## Preview
-https://user-images.githubusercontent.com/31067376/111353327-32846880-86ab-11eb-9082-c6dc895fddf9.mp4
+
+[Preview](https://user-images.githubusercontent.com/31067376/111353327-32846880-86ab-11eb-9082-c6dc895fddf9.mp4)
 
 ## Getting Started
 
